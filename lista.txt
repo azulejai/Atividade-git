@@ -1,0 +1,3 @@
+Nome: Azulejai
+Data: 12/08/2025
+Objetivo: Aprender Git e Github no celular
